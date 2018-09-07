@@ -1,0 +1,1040 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"canva",
+				"canvasWidth\tnumber"
+			],
+			[
+				"can",
+				"canvasWidth\tnumber"
+			],
+			[
+				"Can",
+				"canvasWidth\tnumber"
+			],
+			[
+				"cav",
+				"canvas_height"
+			],
+			[
+				"start",
+				"startY"
+			],
+			[
+				"canv",
+				"canvas_height"
+			],
+			[
+				"is",
+				"isInsideBoundary"
+			],
+			[
+				"blo",
+				"blocksCols"
+			],
+			[
+				"block",
+				"blockX"
+			],
+			[
+				"bloc",
+				"blocksCols"
+			],
+			[
+				"sta",
+				"startX"
+			],
+			[
+				"st",
+				"startY"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"emp",
+				"emptyBlocksArray"
+			],
+			[
+				"num",
+				"numBlocks"
+			],
+			[
+				"bl",
+				"blocksRows"
+			],
+			[
+				"numb",
+				"numEmptyBlocks"
+			],
+			[
+				"blocks",
+				"blocksCols"
+			],
+			[
+				"spire",
+				"spriteHeight"
+			],
+			[
+				"spr",
+				"spriteX"
+			],
+			[
+				"sprie",
+				"spriteHeight"
+			],
+			[
+				"sq",
+				"squirrel"
+			],
+			[
+				"squi",
+				"squirrel"
+			],
+			[
+				"image",
+				"imageWidth"
+			],
+			[
+				"sp",
+				"spriteHeight"
+			],
+			[
+				"s",
+				"squirrel_sprite_img"
+			],
+			[
+				"sqi",
+				"squirrelImg"
+			],
+			[
+				"spri",
+				"sprites"
+			],
+			[
+				"img",
+				"imgUrl"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"print_",
+				"print_ob_and_exit"
+			],
+			[
+				"recu",
+				"recurring_postback_url"
+			],
+			[
+				"insta",
+				"instaddictionorder"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"custom",
+				"customer_email"
+			],
+			[
+				"cust",
+				"customer_email"
+			],
+			[
+				"full",
+				"fullfillment_hash"
+			],
+			[
+				"su",
+				"subscription_cancelled"
+			],
+			[
+				"subsc",
+				"subscription_payment"
+			],
+			[
+				"Has",
+				"HasOffersOffers\tHasOffersOffers"
+			],
+			[
+				"get",
+				"getCookie"
+			],
+			[
+				"GAT_",
+				"GAT_Tracker"
+			],
+			[
+				"log",
+				"logVar($file, $var)\tmixed"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"ins",
+				"instaddictionorder"
+			],
+			[
+				"doPo",
+				"doPostbackFileGetContents($postbackURL)\tmixed"
+			],
+			[
+				"HasOf",
+				"HasOffersPostbackHelper\tHasOffersPostbackHelper"
+			],
+			[
+				"http_build",
+				"http_build_query"
+			],
+			[
+				"preg_mat",
+				"preg_match"
+			],
+			[
+				"HTTP",
+				"HTTP_REFERER"
+			],
+			[
+				"fulfi",
+				"fulfillment_id"
+			],
+			[
+				"web",
+				"webhookOrderModel"
+			],
+			[
+				"gat",
+				"gat-framework"
+			],
+			[
+				"bas",
+				"base64_decode"
+			],
+			[
+				"ifram",
+				"iframeCss"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"bioness",
+				"bionessCookieJar\tmixed"
+			],
+			[
+				"filter",
+				"filter_input"
+			],
+			[
+				"GAT_ASSETS_",
+				"GAT_ASSETS_PATH"
+			],
+			[
+				"file_",
+				"file_path"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"background-p",
+				"background-repeat\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"p-",
+				"p-lg-0 \tBootstrap 4 Class"
+			],
+			[
+				"im",
+				"img-fluid \tBootstrap 4 Class"
+			],
+			[
+				"pt",
+				"pt-lg-1 \tBootstrap 4 Class"
+			],
+			[
+				"alert-",
+				"alert-danger \tBootstrap 3 Class"
+			],
+			[
+				"HTT",
+				"HTTP_REFERER"
+			],
+			[
+				"sen",
+				"sendWithGmail($to, $subject, $body, $from, $headers, $gmailAccount)\tmixed"
+			],
+			[
+				"MAil",
+				"MailAccounts\tMailAccounts"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"GAT",
+				"GAT_TrackerObj"
+			],
+			[
+				"aj",
+				"ajaxRespondString($str)\tmixed"
+			],
+			[
+				"modelCla",
+				"modelClass"
+			],
+			[
+				"btn-",
+				"btn-block \tBootstrap 4 Class"
+			],
+			[
+				"modelCl",
+				"modelClass"
+			],
+			[
+				"Choos",
+				"ChooseAdvertiser"
+			],
+			[
+				"page",
+				"pageName"
+			],
+			[
+				"model",
+				"modelClassName"
+			],
+			[
+				"modelClass",
+				"modelClassName"
+			],
+			[
+				"getModel",
+				"getModelClassName"
+			],
+			[
+				"ajax",
+				"ajaxRespondJson($responseArray)\tmixed"
+			],
+			[
+				"ajs",
+				"ajaxRespondJson($responseArray)\tmixed"
+			],
+			[
+				"resp",
+				"responseArray"
+			],
+			[
+				"out",
+				"outbrain_private_id"
+			],
+			[
+				"post",
+				"postback_url"
+			],
+			[
+				"array",
+				"arrayContains"
+			],
+			[
+				"colum",
+				"columAlias"
+			],
+			[
+				"table",
+				"tableHtml"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tale",
+				"tableHtml"
+			],
+			[
+				"array_key",
+				"array_keys"
+			],
+			[
+				"func",
+				"functionName"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"approv",
+				"approveButtonContent"
+			],
+			[
+				"night",
+				"nightShaperLead"
+			],
+			[
+				"fetch",
+				"fetchObj"
+			],
+			[
+				"appo",
+				"approveButtonContent"
+			],
+			[
+				"approve",
+				"approveButtonAction"
+			],
+			[
+				"GAT_Has",
+				"GAT_HasOffersGoalPostback\tGAT_HasOffersGoalPostback"
+			],
+			[
+				"HasO",
+				"HasOffersPostbackHelper\tHasOffersPostbackHelper"
+			],
+			[
+				"lea",
+				"leadConfirmGoalID"
+			],
+			[
+				"Rew",
+				"RewriteRule"
+			],
+			[
+				"REQUE",
+				"REQUEST_URI"
+			],
+			[
+				"google_",
+				"google_conv_id"
+			],
+			[
+				"acme",
+				"acme_cmd"
+			],
+			[
+				"issue",
+				"issue_certificate"
+			],
+			[
+				"old",
+				"old_apps"
+			],
+			[
+				"contro",
+				"controllerParams"
+			],
+			[
+				"pro",
+				"productKey"
+			],
+			[
+				"camp",
+				"campaignOrigin"
+			],
+			[
+				"pixel",
+				"pixelTrackingHelper"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"server",
+				"serverRequestURL"
+			],
+			[
+				"DomainR",
+				"DomainRouteFactory\tDomainRouteFactory"
+			],
+			[
+				"Domain",
+				"DomainRouteFactory"
+			],
+			[
+				"love",
+				"lovemedonna"
+			],
+			[
+				"exi",
+				"exists"
+			],
+			[
+				"LOVEMEDONNA",
+				"lovemedonna_4"
+			],
+			[
+				"controller",
+				"controllerName"
+			],
+			[
+				"ser",
+				"serverName"
+			],
+			[
+				"serv",
+				"serverRequestURL"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 128.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal pa",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"comment",
+				"Toggle Block Comment"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"power",
+				"PowerCursors: Add cursor"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"sftp do",
+				"SFTP: Download Folder"
+			],
+			[
+				"show",
+				"SFTP: Show Panel"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"surround",
+				"Surround: surround selection"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"Apache",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"sftp",
+				"SFTP: Show Panel"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"x",
+				"Xdebug: Restore Layout"
+			],
+			[
+				"xdebu",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"xdebug",
+				"Xdebug: Restore Layout"
+			],
+			[
+				"xde",
+				"Preferences: Xdebug Settings – Default"
+			],
+			[
+				"sftp ",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"rsync",
+				"rsync ssh: Initialize settings"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"perl",
+				"PerlTidy: Tidy"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"packar",
+				"Package Control: Remove Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax",
+				"Set Syntax: JSON"
+			],
+			[
+				"evernote new",
+				"Evernote: New empty note"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"syntax jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"evernote ",
+				"Evernote Settings: Default"
+			],
+			[
+				"evernote ope",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"evernote",
+				"Evernote Settings: Default"
+			],
+			[
+				"evernote sear",
+				"Evernote: Search Note"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"evernote open",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"evernote op",
+				"Evernote: Open Evernote Note"
+			]
+		],
+		"width": 479.0
+	},
+	"console":
+	{
+		"height": 213.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mcisback/Dropbox/Development/MobileGames/sortingAlg/IndexSorting"
+	],
+	"file_history":
+	[
+		"/home/mcisback/Dropbox/Development/MobileGames/sortingAlg/IndexSorting/index.html",
+		"/home/mcisback/Dropbox/Development/MobileGames/sortingAlg/IndexSorting/sketch.js",
+		"/home/mcisback/Dropbox/Development/MobileGames/SquirrelRevenge/game.html",
+		"/home/mcisback/Dropbox/ALL-DATA/Clienti/UpWork/FiverrScraper/pinfo.php",
+		"/home/mcisback/Dropbox/ALL-DATA/Clienti/UpWork/FiverrScraper/fiverrscraper.sublime-project",
+		"/home/mcisback/Dropbox/ALL-DATA/Clienti/UpWork/FiverrScraper/sftp-config.json",
+		"/home/mcisback/Dropbox/ALL-DATA/Clienti/UpWork/FiverrScraper/fscraper/test-bot.py",
+		"/home/mcisback/Dropbox/ALL-DATA/Clienti/UpWork/FiverrScraper/index.php",
+		"/home/mcisback/Dropbox/Development/MobileGames/SquirrelRevenge/config.json",
+		"/home/mcisback/Dropbox/Development/MobileGames/SquirrelRevenge/block.js",
+		"/home/mcisback/Dropbox/Development/MobileGames/SquirrelRevenge/squirrel.js",
+		"/home/mcisback/Dropbox/Development/MobileGames/SquirrelRevenge/sketch.js",
+		"/home/mcisback/Dropbox/Development/MobileGames/SquirrelRevenge/sprite.js",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/roibionessinfo/iframe/thankyou.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/roibionessinfo/krestina.roibioness.info/iframe/thankyou.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/roibionessinfo/senup.roibioness.info/iframe/thankyou.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/roibionessinfo/senup.roibioness.info/iframe/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/insta_crontab.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/controllers/WebHook.controller.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/config/hasoffers-offers.config.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/controllers/remotejs/instaddiction_checkout.js",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/models/instaddictionorder.model.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/models/instaddictionwebhookorder.model.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/hasoffers/gat-postback.class.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/bioreishiganoderma.it/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/controllers/remotejs/instaddiction_trk.js",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/controllers/DownloadLanding.controller.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/bioness/bioness-product.class.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/roisrvcom/advertiser_panel/wp-content/plugins/roiconvmanualapproval/roiaffmanualconvpanel.class.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/nightshaper.it/iframeorder/success.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/controllers/Landing.controller.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/roibionessinfo/iframe/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/oneshotsovversivoit/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/domainroutes.config.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/oneshotsovversivo.it/oneshot-imprenditori-sovversivi.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/oneshotsovversivo.it/iframeorder/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/oneshotsovversivo.it/oneshot-imprenditori-sovversivi-2.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/controllers/RemoteJS.controller.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/bioness/bioness-form-generator.include.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/helpers/hasoffers-postback.helper.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/krestina_donna_s1/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/helpers/log.helper.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/roibionessinfo/krestina.roibioness.info/iframe/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/helpers/mail.helper.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/models/base.model.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/gat-database.class.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/campaign/krestina_donna_s1/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/test/domainroutes-tests.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/includewithvars.include.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/helpers/url.helper.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/helpers/querystring.helper.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/insta_crontab.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/config/constants.config.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/.htaccess",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/bioness/bioness-api.class.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/models/thrivecartorder.model.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/models/instaddiction.model.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/bioness/bioness-single-product.class.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/bioness/config.include.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/controllers/MailDispatcher.controller.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/campaign/krestina_uomo_s1/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/campaign/contactform.include.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/krestina_uomo_if1/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/controllers/RoiCampaign.controller.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/controllersroutes.config.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/campaign/krestina_uomo_if1/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/campaign/krestina_donna_if1/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/campaign/krestina-uomo-e-donna-2.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/krestina_donna_if1/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/krestina_uomo_s1/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/krestina-uomo-e-donna.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/roibionessinfo/iframe/.htaccess",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/lovemeintegratore.it/lovemeuomo/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/krestina_uomo_iframe/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/krestina_uomo_short/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/krestina_donna_iframe/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/scale.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/webhookroutes.config.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/errors/404.view.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/controllers/IFrameOrder.controller.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/krestina-uomo-e-donna-2.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/senupstore.it/senup-landing-3.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/senupstore.it/senup-landing-2.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/senupstore.it/senup-landing-1.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/controllers/maildispatche.controller.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/krestina-bridge-donna-3.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/campaign/krestina-uomo-e-donna.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/assets/img/scale.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/404.include.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/controllers/base.controller.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/krestina-bridge-donna-2.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/krestina-bridge-donna-1.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/krestina-bridge-uomo-3.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/krestina-bridge-uomo-2.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/krestinaoriginal.it/krestina-bridge-uomo-1.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/sftp-config.json",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/nightshaper.it/shaper_landing_1.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/test/mail-tests.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/config/mail.config.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/roisrvcom/advertiser_panel/wp-content/plugins/roiconvmanualapproval/views/adminchoosemodel.view.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/pixeltracking.helper.class.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/helpers/cookie.helper.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/roisrvcom/advertiser_panel/wp-content/plugins/roiconvmanualapproval/views/showleadspanel.view.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/lovemeintegratore.it/lovemedonna/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/lovemeintegratore.it/lovemecoppia/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/terms/bioness/privacy_policy.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/roisrvcom/advertiser_panel/wp-content/plugins/roiconvmanualapproval/views/gentable.partial.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/pixelviews/outbrain.head.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/models/nightshaper.model.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/nightshaper.it/iframeorder/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/helpers/array.helper.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/gat-dbquery.class.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/bioalexferox.it/aloe-ferox-bridge-1.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/bioalexferox.it/aloe-ferox-bridge-2.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/bioalexferox.it/aloe-ferox-bridge-3.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/erbalegale-shop.it/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/curcumaepiperina.it/curcuma-e-piperina-2.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/curcumaepiperina.it/curcuma-e-piperina.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/biogarciniacambodia.it/garcinia-1.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/bioalexferox.it/aloe-ferox-2.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/bioalexferox.it/aloe-ferox.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/terms/bioness/disclaimer.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/landings/views/biogarciniacambodia.it/garcinia-2.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/trackingroiaffiliationnet/.htaccess",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/trackingroiaffiliationnet/index.php",
+		"/home/mcisback/Dropbox/GoldAffiliateTeam/SublimeGatVultr/gat-framework/pixelviews/adwords.conversion.php",
+		"/home/mcisback/Dropbox/giurins/upcert_class.py"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 131.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 416.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "indexsorting.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 379.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
